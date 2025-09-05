@@ -31,6 +31,5 @@ It applies **Natural Language Processing (NLP)** and visualization techniques to
 📁 College-Event-Feedback-Analysis
  ┣ 📄 college_event_feedback.csv   # Raw survey data
  ┣ 📓 event_feedback_analysis.ipynb # Colab notebook (analysis code)
- ┣ 📊 outputs/                      # Charts, plots, and visualizations
  ┣ 📜 README.md                     # Project documentation
 
